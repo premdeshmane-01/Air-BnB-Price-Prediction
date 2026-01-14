@@ -94,7 +94,7 @@ If you prefer to use Docker, you can build and run the container locally:
 ## Troubleshooting
 
 - If you encounter issues with library conflicts, ensure you are using a clean virtual environment.
-- For any specific issues or questions, feel free to contact me at: **[Insert Your Email Here]**
+- For any specific issues or questions, feel free to contact me at: **[premdeshmane01@gmail.com]**
 
 ---
 
